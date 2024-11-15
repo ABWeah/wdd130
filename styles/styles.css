@@ -1,0 +1,47 @@
+nav {
+    background-color: rgb(1, 1, 43);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+nav h1 {
+    color: white;
+    font-size: xx-large;
+    font-family: 'Gill Sans';
+}
+
+h1 {
+    color: darkblule;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px #333;
+}
+
+main p {
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-block-start: 0cm;
+}
+
+main h1 {
+    font-family: Impact;
+    background: gray #333
+    
+}
+
+footer {
+    color: white;
+    background-color: rgb(1, 1, 43);
+}
