@@ -31,7 +31,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: darkblule;
 }
 
 main img {
@@ -57,11 +57,9 @@ main p {
 }
 
 main h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    width: auto;
-    height: 50px;
-    margin-left: 2rem;
-    
+    font-family: Impact;
+    background: gray #333
+   
 }
 
 aside {
@@ -93,14 +91,4 @@ footer {
     text-align: center;
     color: white;
     background-color: rgb(1, 1, 43);
-}
-
-/* Class Selectors */
-
-.box {
-    margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.1);
-    padding: 1rem;
-    background-color: rgb(196, 235, 252);
-    color: #09003d;
 }
