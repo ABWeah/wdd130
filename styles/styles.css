@@ -1,4 +1,4 @@
-*{
+* {
 margin: 0;
 padding: 0;
 box-sizing: border-box;
@@ -57,9 +57,11 @@ main p {
 }
 
 main h1 {
-    font-family: Impact;
+    font-family: Cambria, Cochin, Georgia, times, 'Times New Roman' serif;
+    width: auto;
+    height: 50px;
     background: gray #333
-   
+    margin-left: 2rem  
 }
 
 aside {
@@ -81,7 +83,7 @@ aside h2 {
 aside img {
     width: 200px;
     height: auto;
-    padding: 0px;
+    padding: 0;
     background-color: rgb(0, 0, 31);
 }
 
@@ -91,4 +93,14 @@ footer {
     text-align: center;
     color: white;
     background-color: rgb(1, 1, 43);
+}
+
+/* Class Selectors */
+
+.box {
+    margin: 1rem
+    border: 1px solid rgb(0 0 0 . 0.1);
+    padding: 1rem;
+    background-color: rgb(196, 235, 252?;
+    color: #09003d;
 }
